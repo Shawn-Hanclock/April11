@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.April11">
         <activity
+            android:name=".SecondActivity"
+            android:label="@string/title_activity_second_screen"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
