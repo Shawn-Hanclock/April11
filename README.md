@@ -1,5 +1,5 @@
-# Repo Name April11
+# April11 (A.K.A. duck app)
 
-## First attempt at Android Studio April 2022
+## First attempt at using Android Studio April 2022
 
-This was a code along in AP CSA, duck counter app.
+Created during a code along in AP CSA, creating a duck counter app. The app keeps track and displays the number of times a user clicks a duck image.
